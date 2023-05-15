@@ -1,2 +1,2 @@
 # Apache-Spark-Courses
-Apach Spark
+Projects and files built on courses about Apach Spark
